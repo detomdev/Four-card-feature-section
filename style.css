@@ -118,12 +118,13 @@ img {
     border-top: 4px solid var(--Blue);
 }
 
-.attribution {
+footer {
     font-size: 11px;
     text-align: center;
 }
 
-.attribution a {
+footer,
+a {
     color: var(--Very-Dark-Blue);
     text-decoration: none;
 }
